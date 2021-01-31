@@ -1,0 +1,94 @@
+{
+  "trees": [
+    {
+      "id": 8,
+      "tree": "Paulownia tomentosa",
+      "treeName": "Foxglove Tree",
+      "leaves": "Deciduous",
+      "height": 12,
+      "minTemp": -15,
+      "imageUrl": "https://www.exotic-plants.de/auktionsbilder/Paulownia_tomentosa1.jpg"
+    },
+    {
+      "id": 9,
+      "tree": "Albizia julibrissin",
+      "treeName": "Silk Tree",
+      "leaves": "Deciduous",
+      "height": 6,
+      "minTemp": -15,
+      "imageUrl": "https://www.arkhamsbotanical.com/wp-content/uploads/albizia-julibrissin-rosea-pink-silk-tree-seeds-2.jpg"
+    },
+    {
+      "id": 10,
+      "tree": "Illicium griffithii",
+      "treeName": "Anisetree",
+      "leaves": "Evergreen",
+      "height": 30,
+      "minTemp": -10,
+      "imageUrl": "https://1.bp.blogspot.com/-Z0A2-DF7yKA/UaUC60FVPNI/AAAAAAAALUk/0oze9Siuv1U/s1600/AEDSCF2806.JPG"
+    },
+    {
+      "id": 11,
+      "tree": "Cornus hongkongensis",
+      "treeName": "Hong Kong Dogwood",
+      "leaves": "Evergreen",
+      "height": 15,
+      "minTemp": -10,
+      "imageUrl": "https://d6p0gevo8s9lm.cloudfront.net/media/catalog/product/cache/1/image/353x353/9df78eab33525d08d6e5fb8d27136e95/7/8/7869A985D0EDF32562CB3BACA13D6698.jpg"
+    },
+    {
+      "id": 12,
+      "tree": "Itea ilicifolia",
+      "treeName": "Holly-leaf Sweetspire",
+      "leaves": "Evergreen",
+      "height": 5,
+      "minTemp": -15,
+      "imageUrl": "https://www.letsgoplanting.co.uk/wp-content/uploads/IteaIlicifolia1-1.jpg"
+    },
+    {
+      "id": 14,
+      "tree": "Magnolia delavayi",
+      "treeName": "Chinese Mountain Magnolia",
+      "leaves": "Evergreen",
+      "height": 15,
+      "minTemp": -10,
+      "imageUrl": "https://www.stervinou.fr/images/boutique/972-1-magdel.jpg?1512636262"
+    },
+    {
+      "id": 15,
+      "tree": "Pinus montezumae",
+      "treeName": "Montezuma Pine",
+      "leaves": "Evergreen",
+      "height": 35,
+      "minTemp": -10,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmF5C3OMng0edxuztspgBSiVx-TecWX1-Pw&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "tree": "Schefflera kornasii",
+      "treeName": "Umbrella Tree",
+      "leaves": "Evergreen",
+      "height": 4,
+      "minTemp": -10,
+      "imageUrl": "https://4.bp.blogspot.com/-q24EWymZJI8/U6njCNrKhjI/AAAAAAAAR80/2YeAtiURrbU/s1600/DSCF1670.JPG"
+    },
+    {
+      "id": 17,
+      "tree": "Schima wallichii",
+      "treeName": "Needlewood tree",
+      "leaves": "Evergreen",
+      "height": 10,
+      "minTemp": -10,
+      "imageUrl": "https://www.flowersofindia.net/extrapics/Schima-1.jpg"
+    },
+    {
+      "id": 18,
+      "tree": "Trachycarpus fortunei",
+      "treeName": "Windmill Palm",
+      "leaves": "Evergreen",
+      "height": 8,
+      "minTemp": -22,
+      "imageUrl": "https://www.gardeningknowhow.com/wp-content/uploads/2016/12/waggie-palm.jpg"
+    }
+  ]
+}
