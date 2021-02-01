@@ -1,9 +1,72 @@
 {
   "trees": [
     {
+      "id": 1,
+      "tree": "Acacia retinodes",
+      "name": "Swamp Wattle",
+      "leaves": "Evergreen",
+      "height": 8,
+      "minTemp": -7,
+      "imageUrl": "https://www.gardenia.net/storage/app/public/uploads/images/detail/X9RiyYBQUbKNIZonW8ePzMBOWrGjevyCOSNcB30K.jpeg"
+    },
+    {
+      "id": 2,
+      "tree": "Eucalyptus \nrubida",
+      "name": "Candlebark",
+      "leaves": "Evergreen",
+      "height": 40,
+      "minTemp": -14,
+      "imageUrl": "https://www.gardenia.net/storage/app/public/uploads/images/detail/Candlebark%20(Eucalyptus%20rubida)Optimized.jpg"
+    },
+    {
+      "id": 3,
+      "tree": "Eriobotrya\njaponica",
+      "name": "Loquat",
+      "leaves": "Evergreen",
+      "height": 8,
+      "minTemp": -17,
+      "imageUrl": "https://www.plantstoplant.com/Files/71136/Img/05/Eriobotrya-japonica-Loquat-Chinese-Plum-Evergreen-Shrub-or-small-tree-zoom.jpg"
+    },
+    {
+      "id": 4,
+      "tree": "Koelreuteria paniculata",
+      "name": "Pride of India",
+      "leaves": "Deciduous",
+      "height": 17,
+      "minTemp": -15,
+      "imageUrl": "https://ramanarunachalam.github.io/Flora-and-Fauna/Flora/Lagerstroemia%20-%20Pink%20Pride%20Of%20India%20Tree/Pink%20Pride%20Of%20India%20Tree%20-%20Canopy.jpg"
+    },
+    {
+      "id": 5,
+      "tree": "Sesbania punicea",
+      "name": "Rattlebox",
+      "leaves": "Deciduous",
+      "height": 4.5,
+      "minTemp": -5,
+      "imageUrl": "https://toptropicals.com/pics/garden/07/km/PICT1023.jpg"
+    },
+    {
+      "id": 6,
+      "tree": "Magnolia foveolata",
+      "name": "Magnolia",
+      "leaves": "Evergreen",
+      "height": 7,
+      "minTemp": -15,
+      "imageUrl": "https://pics.davesgarden.com/pics/2012/02/04/snasxs/a20f5e.jpg"
+    },
+    {
+      "id": 7,
+      "tree": "Eucalyptus aggregata",
+      "name": "Black Gum",
+      "leaves": "Evergreen",
+      "height": 18,
+      "minTemp": -12,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Eucalyptus_aggregata_habit.jpg"
+    },
+    {
       "id": 8,
       "tree": "Paulownia tomentosa",
-      "treeName": "Foxglove Tree",
+      "name": "Foxglove Tree",
       "leaves": "Deciduous",
       "height": 12,
       "minTemp": -15,
@@ -12,7 +75,7 @@
     {
       "id": 9,
       "tree": "Albizia julibrissin",
-      "treeName": "Silk Tree",
+      "name": "Silk Tree",
       "leaves": "Deciduous",
       "height": 6,
       "minTemp": -15,
@@ -21,7 +84,7 @@
     {
       "id": 10,
       "tree": "Illicium griffithii",
-      "treeName": "Anisetree",
+      "name": "Anisetree",
       "leaves": "Evergreen",
       "height": 30,
       "minTemp": -10,
@@ -30,7 +93,7 @@
     {
       "id": 11,
       "tree": "Cornus hongkongensis",
-      "treeName": "Hong Kong Dogwood",
+      "name": "Hong Kong Dogwood",
       "leaves": "Evergreen",
       "height": 15,
       "minTemp": -10,
@@ -39,16 +102,25 @@
     {
       "id": 12,
       "tree": "Itea ilicifolia",
-      "treeName": "Holly-leaf Sweetspire",
+      "name": "Holly-leaf Sweetspire",
       "leaves": "Evergreen",
       "height": 5,
       "minTemp": -15,
       "imageUrl": "https://www.letsgoplanting.co.uk/wp-content/uploads/IteaIlicifolia1-1.jpg"
     },
     {
+      "id": 13,
+      "tree": "Schefflera taiwaniana",
+      "name": "Umbrella Tree",
+      "leaves": "Evergreen",
+      "height": 4,
+      "minTemp": -10,
+      "imageUrl": "https://i.pinimg.com/originals/49/75/b0/4975b0105ad91542bf74eb4f8b4279af.jpg"
+    },
+    {
       "id": 14,
       "tree": "Magnolia delavayi",
-      "treeName": "Chinese Mountain Magnolia",
+      "name": "Chinese Mountain Magnolia",
       "leaves": "Evergreen",
       "height": 15,
       "minTemp": -10,
@@ -57,7 +129,7 @@
     {
       "id": 15,
       "tree": "Pinus montezumae",
-      "treeName": "Montezuma Pine",
+      "name": "Montezuma Pine",
       "leaves": "Evergreen",
       "height": 35,
       "minTemp": -10,
@@ -66,7 +138,7 @@
     {
       "id": 16,
       "tree": "Schefflera kornasii",
-      "treeName": "Umbrella Tree",
+      "name": "Umbrella Tree",
       "leaves": "Evergreen",
       "height": 4,
       "minTemp": -10,
@@ -75,7 +147,7 @@
     {
       "id": 17,
       "tree": "Schima wallichii",
-      "treeName": "Needlewood tree",
+      "name": "Needlewood tree",
       "leaves": "Evergreen",
       "height": 10,
       "minTemp": -10,
@@ -84,11 +156,29 @@
     {
       "id": 18,
       "tree": "Trachycarpus fortunei",
-      "treeName": "Windmill Palm",
+      "name": "Windmill Palm",
       "leaves": "Evergreen",
       "height": 8,
       "minTemp": -22,
       "imageUrl": "https://www.gardeningknowhow.com/wp-content/uploads/2016/12/waggie-palm.jpg"
+    },
+    {
+      "id": 19,
+      "tree": "Butia capitata",
+      "name": "Jelly Palm",
+      "leaves": "Evergreen",
+      "height": 5,
+      "minTemp": -10,
+      "imageUrl": "https://www.gardenia.net/storage/app/public/uploads/images/KLVKJfXDj7sCtlTFEfzWpJwWr8ILaN7ii3wL6tp1.jpeg"
+    },
+    {
+      "id": 20,
+      "tree": "Neolitsea sericea",
+      "name": "Neolitsea",
+      "leaves": "Evergreen",
+      "height": 15,
+      "minTemp": -10,
+      "imageUrl": "https://live.staticflickr.com/3754/14125604450_0aaa97fa63_b.jpg"
     }
   ]
 }
